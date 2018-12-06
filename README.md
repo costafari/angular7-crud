@@ -1,3 +1,7 @@
+#¡Siente libre de hacer lo que quieras con este código!
+
+¿Cómo utilizarlo? Crea un proyecto de Angular 7 (a esta fecha) normalmente. Descarga los paquetes npm necesarios. Clona el repositorio (no posee los paquetes) y utilizalo.
+
 # Angular7bootstrap4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
